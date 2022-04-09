@@ -5,6 +5,7 @@ CREATE TABLE IF NOT EXISTS `team195_scouting`.`SheetsL2Scouting` (
 	`ClimbStart` VARCHAR(2048) NULL,
 	`OffensiveQualities` VARCHAR(2048) NULL,
 	`DefenseQualities` VARCHAR(2048)  NULL,
+	`ClimbStart` INT NULL,
 	`LabelBot` VARCHAR(2048) NULL,
 	`GeneralThoughts` VARCHAR(2048) NULL,
 	`HarishLove` VARCHAR(128) NULL,
